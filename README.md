@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently studying on **University of Palestine as software engineer**
 
+- 🌱 Currently interested in **Big data analysis** 
+
 - 📫 How to reach me **nabil.abushaban@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
