@@ -9,11 +9,8 @@
 
 - 🌱 Currently interested in **DevOps** 
 
-- 📫 How to reach me **nabil.abushaban@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nabilabushaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabilabushaban" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nabil-abushaban-251ab2124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-abushaban-251ab2124" height="30" width="40" /></a>
 </p>
 
