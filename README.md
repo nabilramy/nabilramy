@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabilramy" alt="nabilramy" /></a> </p>
 
-- 🔭 I’m got my graduation from **University of Palestine as a Software Engineer**
+- 🔭 I got my graduation from **University of Palestine as a Software Engineer**
 
 - 🌱 Currently interested in **DevOps** 
 
